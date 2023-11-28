@@ -1,0 +1,15 @@
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\bin\Debug\net6.0\Entities.dll
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\bin\Debug\net6.0\Entities.pdb
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\sazakberatkaan\source\repos\AspNetCoreWebAPI\bsStoreApp\Repositories\obj\Debug\net6.0\ref\Repositories.dll
